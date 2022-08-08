@@ -30,4 +30,4 @@ after_success:
   - docker push yusidris/udagram-api-feed
   - docker push yusidris/udagram-api-user
   - docker push yusidris/udagram-frontend
-  - docker push yusidrid/udagram-reverseproxy
+  - docker push yusidris/udagram-reverseproxy
